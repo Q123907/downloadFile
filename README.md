@@ -1,4 +1,9 @@
+
 # downloadFile
+1.git clone git@github.com:Q123907/downloadFile.git
+
+2.npm install
+
 node下载图片，目前只能根据已知图片地址进行下载
 可以再config.js文件中进行设置
     
@@ -9,3 +14,5 @@ node下载图片，目前只能根据已知图片地址进行下载
     },
     uuid: false, //图片名称是否用hash防止出现重复名称设置
     delFile: false, //下载图片前是否清空之前文件夹
+
+npm run start 运行
