@@ -1,6 +1,6 @@
-const imgArr = require("./imageUrl");
+// const imgArr = require("./imageUrl");
 // 倒入数据
-const imageInfo = require("./file/data.json");
+// const imageInfo = require("./file/data.json");
 
 //读取excel
 // console.log("data", JSON.stringify(xlsx.parse("./file/data.xlsx")));
